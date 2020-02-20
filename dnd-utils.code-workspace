@@ -1,0 +1,11 @@
+{
+	"folders": [
+		{
+			"path": "/Users/ephriamhenderson/Repos/dnd-utils"
+		}
+	],
+	"settings": {
+		"prettier.disableLanguages": ["html", "css", "scss"],
+		"liquid.format": true
+	}
+}
